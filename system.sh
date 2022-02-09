@@ -6,7 +6,7 @@
 #####################################################
 
 clear
-source /etc/
+source /etc/functions.sh
 source $STORAGE_ROOT/yiimp/.yiimp.conf
 source $HOME/multipool/yiimp_single/.wireguard.install.cnf
 
